@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(252, 252, 234);
+}
+
+#nav{
+    background-color: rgb(254, 252, 234);
+    font-size: large;
+    
+}
+
+
+#postpage {
+    text-align: center;
+    font-style: italic;
+}
+
+/* #catpost {
+    text-align: center;
+    font-style: italic;
+} */
+
+#postcat {
+    color: red;
+    text-align: center;
+    
+    font-style: italic;
+    
+}
+
+#posttitle {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#postbody {
+    font-style: italic;
+   
+    text-align: justify;
+}
+
+#postuser {
+    font-style: italic;
+    
+}
+
+.quote{
+    padding: 10px;
+   
+    background-color: rgb(246, 246, 189);
+    text-align: center;
+    font-size: large;
+}
+
+.nav-link active{
+    color: black;
+}
+
+.nav-link{
+    color: black;
+}
+
+#posttitles{
+text-align: left;
+text-decoration: underline;
+padding-top: 10px;
+font-style: italic;
+
+
+}
+
+#postbodys{
+    text-align: justify;
+   font-style: italic;
+   padding-top: 5px;
+}
+
+#postbodyc{
+    font-style: italic;
+    font-size: 23px;
+}
+
+#com{
+    text-align: left;
+}
+
+#comm{
+    text-align: left;
+}
+
+.message{
+    color: red;
+}
+
+.p{
+    text-align: center;
+}
+
+
+
+
